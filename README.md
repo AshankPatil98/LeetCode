@@ -1,2 +1,2 @@
 # LeetCode
-I will upload my solutions to Leetcode Problems here. I will do a tleast one a day.
+I will upload my solutions to Leetcode Problems here. I will do atleast one a day.
